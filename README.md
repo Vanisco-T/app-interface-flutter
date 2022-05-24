@@ -4,11 +4,9 @@ InApp is a simple application for e-commerce built using Karee Framework
 
 ## Get It
 
-    git clone https://github.com/ChamplainLeCode/InApp in_app
 
 ## Getting Started
 
-To get start with project take a look on [Karee Framework](https://github.com/ChamplainLeCode/karee)
 
 ## How to run
 
